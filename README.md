@@ -1,2 +1,2 @@
 # Jodi
-Projeto final da disciplina de Jogos Digitais - UFCG 2018.1 
+Repositório para o projeto da disciplina de Jogos Digitais 2018.1 - UFCG
